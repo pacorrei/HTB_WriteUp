@@ -9,7 +9,7 @@ First we check the open port via **nmap**.
 ![nmap](./assets/images/nmap.png)
 
 
-The ports 22, YOUR_PORT are open.
+The ports 22, 80 are open.
 Let's check the port 80 first. For that we need to add the **domain** to our **hosts** file.
 
 ```bash
